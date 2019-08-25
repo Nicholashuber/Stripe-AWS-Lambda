@@ -1,5 +1,4 @@
 var AWS = require('aws-sdk');
-var sf = require('node-salesforce');
 
 exports.handler = function(event, context, callback) {
 
